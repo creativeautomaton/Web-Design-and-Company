@@ -3,5 +3,6 @@
     "description": "for repos",
     "require": {"php": ">=5.3",
   "ext-curl": "*",
-  "paypal/merchant-sdk-php":"*"}
+  "paypal/merchant-sdk-php":"*",
+        "laravel/homestead": "^3.0"}
 }
